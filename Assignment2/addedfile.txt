@@ -1,0 +1,2 @@
+1. I've already committed the file now I'm changing it before putting it on Github
+2. git diff didn't work because i added the file. now I'll try to not add the file and see if git diff works
